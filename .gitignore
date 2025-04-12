@@ -1,0 +1,52 @@
+# dependencies
+/node_modules
+
+# production
+/.next
+/out
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+.env.local
+.env.*.local
+*.log
+
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+
+# next.js build output
+.next/
+
+# optional npm cache
+.npm
+
+# typescript
+*.tsbuildinfo
+
+# editor settings
+.vscode/
+.idea/
+*.swp
+
+# macOS
+*.DS_Store
+
+# Linux
+*~
+
+# yarn
+.yarn/cache
+.pnp.*
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
